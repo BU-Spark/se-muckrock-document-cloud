@@ -20,10 +20,9 @@ Have been tested and deployed on our end as working GitHub Actions:
 - Regex Pattern Bank Addon for finding PII: https://github.com/JamesKunstle/documentcloud-multi-regex-pattern-bank-addon
 - Multi Regex Addon: https://github.com/JamesKunstle/documentcloud-multi-regex-addon 
 - Average Document Page Count: https://github.com/sooryu22/documentcloud-avg-page-count-addon
+- Custom Metadata Grabber: https://github.com/EliteEagle77/documentcloud-plugins-cmo 
 
 Works in progress, not yet ran as GitHub Actions:
-
-- Custom Metadata Grabber: https://github.com/EliteEagle77/documentcloud-plugins-cmo 
 
 # Add Users
 To add yourself to the repository, open a Pull Request modifying `COLLABORATORS`, entering your GitHub username in a newline.

@@ -21,6 +21,7 @@ Have been tested and deployed on our end as working GitHub Actions:
 - Multi Regex Addon: https://github.com/JamesKunstle/documentcloud-multi-regex-addon 
 - Average Document Page Count: https://github.com/sooryu22/documentcloud-avg-page-count-addon
 - Custom Metadata Grabber: https://github.com/EliteEagle77/documentcloud-plugins-cmo 
+- Identify Bad Redactions: https://github.com/sooryu22/documentcloud-bad-redactions-addon
 
 Works in progress, not yet ran as GitHub Actions:
 

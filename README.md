@@ -1,12 +1,5 @@
 # Muckrock Document Cloud Addons - CS519 Spring 2022
 
-# Members
-
-- Sooryu (Alina) Kim @sooryu22
-- Cameron Garrison @cam-garrison
-- Dave Godfrey @EliteEagle77
-- James Kunstle @JamesKunstle
-
 # Links to Repositories
 
 As our project involves making multiple GitHub Repositories that function as GitHub Actions for use as add-ons to the DocumentCloud functionality, 
@@ -23,7 +16,8 @@ Have been tested and deployed on our end as working GitHub Actions:
 - Custom Metadata Grabber: https://github.com/EliteEagle77/documentcloud-plugins-cmo 
 - Identify Bad Redactions: https://github.com/sooryu22/documentcloud-bad-redactions-addon
 
-Works in progress, not yet ran as GitHub Actions:
+Works in progress, not yet run as GitHub Actions:
+- Nothing at the moment
 
 # Add Users
 To add yourself to the repository, open a Pull Request modifying `COLLABORATORS`, entering your GitHub username in a newline.

@@ -15,8 +15,7 @@ Have been tested and deployed on our end as working GitHub Actions:
 - Document Page Statistics: https://github.com/sooryu22/documentcloud-page-stats-addon
 - Custom Metadata Scraper: https://github.com/EliteEagle77/documentcloud-custom-metadata-scraper-addon
 - Redact Bottom Inch: https://github.com/EliteEagle77/documentcloud-redact-bottom-inch-addon
-- Identify Bad Redactions: https://github.com/sooryu22/documentcloud-bad-redactions-addon
-- Redact Bad Redactions: https://github.com/sooryu22/documentcloud-redact-bad-redactions-addon
+- Identify/Redact Bad Redactions: https://github.com/sooryu22/documentcloud-bad-redactions-addon
 
 Works in progress, not yet run as GitHub Actions:
 - Nothing at the moment

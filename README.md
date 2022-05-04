@@ -34,7 +34,7 @@ Have been tested and deployed on our end as working GitHub Actions:
 - Find and link legal citations within documents: https://github.com/JamesKunstle/documentcloud-legal-citation-identifcation-addon 
 - Regex Pattern Bank Addon for finding PII: https://github.com/JamesKunstle/documentcloud-multi-regex-pattern-bank-addon
 - Multi Regex Addon: https://github.com/JamesKunstle/documentcloud-multi-regex-addon 
-- Document Page Statistics: https://github.com/sooryu22/documentcloud-page-stats-addon
+- Page Statistics: https://github.com/sooryu22/documentcloud-page-stats-addon
 - Custom Metadata Scraper: https://github.com/DaveG77/documentcloud-custom-metadata-scraper-addon
 - Redact Bottom Inch: https://github.com/DaveG77/documentcloud-redact-bottom-inch-addon
 - Identify/Redact Bad Redactions: https://github.com/sooryu22/documentcloud-bad-redactions-addon
